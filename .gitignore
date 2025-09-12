@@ -1,0 +1,35 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio settings
+.vs/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages (but keep package.config)
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Publish output
+/Properties/PublishProfiles/
+
+# Node modules (if using React/Angular inside ASP.NET Core)
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
