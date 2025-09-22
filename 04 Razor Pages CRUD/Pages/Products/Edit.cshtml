@@ -1,0 +1,32 @@
+﻿@model M01.ModelAndInMemoryStoreSetup.Model.Product
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="mb-4">Edit Product</h1>
+
+<form asp-action="Edit" method="post">
+    @* Keep the Id hidden so it’s sent back to the controller *@
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary me-2">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @* Enables client-side validation *@
+    <partial name="_ValidationScriptsPartial" />
+}

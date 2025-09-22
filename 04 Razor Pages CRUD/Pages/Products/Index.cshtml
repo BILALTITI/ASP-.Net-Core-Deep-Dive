@@ -1,0 +1,42 @@
+﻿@page
+@model _04_Razor_Pages_CRUD.Pages.Products.IndexModel
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New Product</a>
+</p>
+
+@if (Model.Products.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th class="text-end">Price</th>
+                <th style="width:220px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td class="text-end">@product.Price.ToString("C")</td>
+                    <td>
+                        <a asp-page="Details" asp-route-id="@product.Id" class="btn btn-sm btn-info me-1">Details</a>
+                        <a asp-page="Edit" asp-route-id="@product.Id" class="btn btn-sm btn-warning me-1">Edit</a>
+                        <a asp-page="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">No products available.</div>
+}

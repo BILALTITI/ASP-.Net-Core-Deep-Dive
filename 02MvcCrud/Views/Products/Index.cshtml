@@ -1,0 +1,46 @@
+﻿@model IEnumerable<M01.ModelAndInMemoryStoreSetup.Model.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-4">Product List</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Product</a>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th class="text-end">Price</th>
+                <th style="width: 220px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td class="text-end">@product.Price.ToString("C")</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-sm btn-info me-1">Details</a>
+                        <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-sm btn-warning me-1">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">
+        No products available.
+    </div>
+}

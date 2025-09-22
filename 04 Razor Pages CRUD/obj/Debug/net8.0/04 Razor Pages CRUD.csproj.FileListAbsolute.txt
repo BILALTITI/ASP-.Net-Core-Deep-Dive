@@ -1,0 +1,46 @@
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.deps.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.runtimeconfig.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.staticwebassets.endpoints.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.exe
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.staticwebassets.runtime.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.staticwebassets.endpoints.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.exe
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.deps.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.runtimeconfig.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\04 Razor Pages CRUD.pdb
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\bin\Debug\net8.0\M01.ModelAndInMemoryStoreSetup.pdb
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.csproj.AssemblyReference.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.RazorAssemblyInfo.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.RazorAssemblyInfo.cs
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\scopedcss\bundle\04 Razor Pages CRUD.styles.css
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\scopedcss\projectbundle\04 Razor Pages CRUD.bundle.scp.css
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor.E67E6BD2.Up2Date
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\refint\04 Razor Pages CRUD.dll
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.pdb
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\04 Razor Pages CRUD.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\04 Razor Pages CRUD\obj\Debug\net8.0\ref\04 Razor Pages CRUD.dll

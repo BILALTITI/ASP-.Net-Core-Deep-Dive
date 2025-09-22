@@ -1,0 +1,6 @@
+@M01.ModelAndInMemoryStoreSetup_HostAddress = http://localhost:5198
+
+GET {{M01.ModelAndInMemoryStoreSetup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

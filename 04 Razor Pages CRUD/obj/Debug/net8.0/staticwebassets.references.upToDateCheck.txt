@@ -1,0 +1,2 @@
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\M01.ModelAndInMemoryStoreSetup\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bilal\OneDrive\Desktop\CRUD Across Templates\M01.ModelAndInMemoryStoreSetup\obj\Debug\net8.0\staticwebassets.build.json
