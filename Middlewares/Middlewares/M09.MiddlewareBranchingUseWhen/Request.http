@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@baseUrl =https://localhost:7065
+
+GET {{baseUrl}}/branch1
+####
+Get {{baseUrl}}/checkout 
+
